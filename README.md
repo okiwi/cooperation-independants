@@ -11,6 +11,11 @@ Nous sommes une poignée d'indépendants bordelais du secteur logiciel souhaitan
 
 Le plus simple est d'aller sur le canal du Slack Okiwi dédié à ce groupe (cf. #Ressources)
 
+## Comment travaillons nous ?
+
+Une réunion a lieu un lundi sur deux à 12h30 via Discord.
+Vous pouvez [l'ajouter à votre calendrier (iCal)](https://raw.githubusercontent.com/okiwi/cooperation-independants/main/coop-indep-okiwi-sync.ics)
+
 ## Code de conduite (CoC)
 
 ***Travail en cours***
